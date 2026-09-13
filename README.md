@@ -8,6 +8,10 @@
   AI Infrastructure · LLM Inference · Agent Systems
 </p>
 
+<p align="center">
+  <a href="https://yuzheng310.github.io/">个人主页 · 项目与笔记</a>
+</p>
+
 ---
 
 ### 👨‍💻 关于我
